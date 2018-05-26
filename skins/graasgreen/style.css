@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+	/* *****----- Primary: GraasGreen - #ff9e00 -----***** */
+	
+	::-moz-selection {  color: #fff; background-color: #7ddf39; }
+	::selection {  color: #fff; background-color: #7ddf39; }
+	
+	/*----*****---- << Color >> ----*****----*/
+
+	.dt-sc-counter h5, .dt-sc-service:hover h3, .dt-sc-ico-content:hover h3 a, .dt-sc-ico-content.type1:hover h3 a, .dt-sc-team .team-details h6, .dt-sc-testimonial:hover .author-detail span, .entry-meta .date, .entry-metadata a, .phone a:hover, .opening-time li span, #footer .textwidget .dt-sc-contact-info .icon i.fa, .dt-sc-contact-info p a:hover, .widget ul li a:hover, #footer .footer-links li a:hover, .copyright-content > p a:hover, .dt-sc-donutchart-small:hover h5.dt-sc-donutchart-title, ul.dt-sc-fancy-list.leaf > li:hover:before, ul.dt-sc-fancy-list.scissor li:hover:before, .dt-sc-tabs-frame-content .alignright h4, .dt-sc-timeline-content:hover h3 a, .dt-sc-timeline-section.type1 .dt-sc-timeline-content.dt-sc-icon:hover:before, .dt-sc-contacts-info > p a:hover, .dt-sc-contacts-info .icon i.fa, table.dt-sc-rate td span, .dt-sc-service.content .gallery-thumb .gallery-overlay > h4 span, .pagination ul li a.active-page, .pagination ul li:hover a, .widget_categories ul li:hover a, .widget_categories ul li:hover a:before, .widget_categories ul li:hover a span, .widget ul.tweet_list li.tweet a, ul.dt-sc-rate li span, .dt-sc-donutchart-medium:hover h5, .widget.widget_recent_entries .entry-metadata .author > a, .widget.widget_recent_entries .entry-metadata .comments > a, .date-select .date, select option, .pagination .next-post a:hover, .pagination .prev-post a:hover, .dt-sc-team.type2 h6, .dt-sc-team.type3 h6, .aligncenter .tooltip, .dt-sc-button.transparent, .dt-sc-timeline:hover .dt-sc-timeline-content h3 a, .author-name a, .reply a, p.dt-sc-price-tag span, .dt-sc-sorting-container a.active-sort, .blog-post blockquote q::before, .blog-post blockquote q::after, .dollar, .price, .terms, #pager a.selected::before, .dt-sc-sorting-container a:hover, .widget.commentbox ul.recent-cmt li h4 { color: #7ddf39; }
+
+	/*----*****---- << BackGround Color >> ----*****----*/
+
+	input[type="submit"], button, input[type="button"], input[type="reset"], /*#header .dt-sc-button,*/ .dt-sc-service:hover a.dt-sc-explore, a.dt-sc-explore:hover, .dt-sc-team .team-details .team-details-social-icons, .form-row > input[type="submit"], .icon-search, h5.dt-sc-toggle-accordion.active:before, ul.dt-sc-tabs-frame li a.current, ul.dt-sc-social-network > li:hover, h5.dt-sc-toggle-accordion:hover:before, ul.dt-sc-tabs-vertical-frame li a.current, h5.dt-sc-toggle:hover:before, h5.dt-sc-toggle.active:before, .dt-sc-button, .dt-sc-animation-eff2:hover:before, .dt-sc-animation-eff2:before, .dt-sc-animation-eff1:after, .dt-sc-booking li.select:before, table.skin th, .ll-skin-latoja td a.ui-state-active, .ll-skin-latoja td a.ui-state-active.ui-state-hover, .radio-btn input[type="radio"]:checked + span::before, p:hover .dt-sc-dropcap.dt-sc-dropcap-bordered-circle, .dt-sc-button.transparent:hover, .content .bx-controls a.bx-prev, .content .bx-controls a.bx-next, h2.border-title.aligncenter:after, h3.border-title:after, .blog-post.blog-single-entry:hover .entry-details .entry-title h4::after, .dt-sc-service:hover .gallery-details::after, .dt-sc-service:hover .gallery-details::before, .dt-sc-testimonial:hover blockquote::after, .dt-sc-testimonial:hover blockquote::before, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion.active a, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion:hover a, .dt-sc-toggle-frame h5.dt-sc-toggle.active a, .dt-sc-toggle-frame h5.dt-sc-toggle:hover a, .overlay-section-second ul li::after, .overlay-section-second ul li, .overlay-section-first > h5 a, .widget .flickr-widget .flickr_badge_image, .dt-sc-donutchart-medium:hover .dt-sc-donutchart span, ul.shop-times li, .photostack nav span.current, .dt-sticky-menu.type3:after, .dt-sticky-menu.type4:after, ul.shop-times li.closed::after { background-color: #7ddf39; }
+	
+	.dt-sc-service:hover .gallery-details::before, .dt-sc-service.type2:hover .gallery-details::after { background-color: #7ddf39 !important; }
+
+	/*----*****---- << BorderColor >> ----*****----*/ 
+
+	#header, .dt-sc-service:hover .gallery-details, .dt-sc-testimonial:hover blockquote, #footer .textwidget .dt-sc-contact-info .icon, .pagination ul li a.active-page, .pagination ul li:hover a, input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="tel"]:focus, input[type="number"]:focus, input[type="range"]:focus, input[type="date"]:focus, textarea:focus, input.text:focus, input[type="search"]:focus, .dt-sc-animation-eff2:hover, .pagination .next-post a:hover, .pagination .prev-post a:hover, p:hover .dt-sc-dropcap.dt-sc-dropcap-bordered-circle, .dt-sc-button.transparent, .aligncenter .tooltip, .dt-sc-service:hover .gallery-thumb img, #haircut-style-picker ul li a.selected { border-color: #7ddf39; }
+	
+	.dt-sc-sorting-container a::after, .dt-sc-sorting-container a.active-sort::before { border-color: #7ddf39 !important; }
+	
+	/*----*****---- << Others >> ----*****----*/ 
+	
+	.team-details-social-icons:after, .selection-box:before { border-top-color: #7ddf39 !important; }
+	
+	.dt-sc-service .gallery-thumb::after, .gallery-overlay, .dt-sc-service.content:hover::after, .overlay-section-first { background-color: rgba(125, 223, 57, 0.5); }
+	.blog-entry .entry-thumb::after, .blog-entry .entry-thumb::before, .portfolio figure::after, .portfolio figure::before { background-color: rgba(125, 223, 57, 0.15); }
+	.dt-sc-team.type2 .image::before, .dt-sc-team.type3 .image::before { box-shadow: 0 0 0 10px rgba(125, 223, 57, 0.5) inset; }
+	.dt-sc-team.type2:hover .image::before, .dt-sc-team.type3:hover .image::before { background-color: rgba(125, 223, 57, 0.5); }
+	.dt-sc-team.type3 .team-details::after, .entry-thumb-desc { background-color: rgba(125, 223, 57, 0.9); }
+	
+	input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="tel"]:focus, input[type="number"]:focus, input[type="range"]:focus, input[type="date"]:focus, textarea:focus, input.text:focus, input[type="search"]:focus { box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 5px #7ddf39; }
+	
+	.dt-sc-service.content:hover .gallery-thumb .item-mask { background-image: url(images/service-shape-hover.png); }
+	.dt-sc-service:hover .gallery-thumb .item-mask { background-image: url(images/shape-hover.png); }
+	/*.icon-date-picker { background-image: url(images/datepicker-icon.png); }*/
+	.dt-sc-testimonial:hover blockquote q:after { background-image: url(images/testimonial-shape1.png); }
+	.dt-sc-testimonial:hover blockquote q::before { background: url(images/quote1.png) no-repeat; }
+	.bx-controls a.bx-prev:hover { background: url(images/bx-prev-arrow1.png) no-repeat; }		
+	.bx-controls a.bx-next:hover { background: url(images/bx-next-arrow1.png) no-repeat; }	
+	
+	.effect1:before { box-shadow: 0 0 0 35px #7ddf39 inset; }
+	.effect1:hover::before { box-shadow: 0 0 0 0 #7ddf39 inset;	}
+	.dt-sc-team.type2:hover .image::before { box-shadow: 0 0 0 15px rgba(125, 223, 57, 1) inset !important; }
+	
+	#toTop { box-shadow: 0 0 0 2px #7ddf39; }
+	#toTop:hover { box-shadow: -2px -2px 0 0 #7ddf39; }
+	
+	.error-404 h2 { text-shadow: 2px 2px 1px #7ddf39; }
+	
+	/*----*****---- << Gradient >> ----*****----*/
+	
+	#header .dt-sc-button, #main-menu ul.menu li a::after, #main-menu > ul.menu > li.current_page_item a::after, .dt-sc-service:hover .gallery-details::before { background: rgba(0, 0, 0, 0) linear-gradient(to right, #ff9e00 0%, #7ddf39 100%); background-image: -webkit-linear-gradient(right, #ff9e00 0%, #7ddf39 100%); }	
+	#header, #main-menu ul li.dropdown ul, #main-menu ul li.dropdown ul li ul { border-image: linear-gradient(to right, #ff9e00 0%, #7ddf39 100%) 1 1 1 1; }
+	.dt-sc-testimonial:hover .hexagon2::before, .dt-sc-ico-content.type1:hover .hexagon .hexagon2::before, .dt-sc-ico-content.type2:hover .hexagon .hexagon2::before { background: rgba(0, 0, 0, 0) linear-gradient(to right, #ff9e00 0%, #7ddf39 100%); background-image: -webkit-linear-gradient(right, #ff9e00 0%, #7ddf39 100%); }
+	.dt-sc-counter:hover .dt-sc-counter-number::after { background: rgba(0, 0, 0, 0) linear-gradient(to right, #ff9e00 0%, #7ddf39 100%); background-image: -webkit-rgba(0, 0, 0, 0) linear-gradient(to right, #ff9e00 0%, #7ddf39 100%); }
+	
+	.blog-entry:hover .entry-details .entry-title h4::after, .blog-post.blog-single-entry:hover .entry-details .entry-title h4::after { background: rgba(0, 0, 0, 0) linear-gradient(to right, #ff9e00 0%, #7ddf39 100%); background-image: -webkit-linear-gradient(right, #ff9e00 0%, #7ddf39 100%); }	
+	
+	.dt-sc-service.type2:hover .gallery-details::after { background: linear-gradient(to right, #ff9e00 -20%, #7ddf39 100%); background-image: -webkit-linear-gradient(right, #ff9e00 -20%, #7ddf39 100%); }
+	.dt-sc-service.type2.right:hover .gallery-details::after { background: linear-gradient(to right, #7ddf39 10%, #ff9e00 100%); background-image: -webkit-linear-gradient(right, #7ddf39 10%, #ff9e00 100%); }
+	.dt-sc-timeline:hover .hexagon2::before { background: linear-gradient(to right, #ff9e00 0%, #7ddf39 100%);background-image: -webkit-linear-gradient(right, #ff9e00 0%, #7ddf39 100%); }
+	
+	ul.dt-sc-social-network li { background: rgba(0, 0, 0, 0) linear-gradient(45deg, #7ddf39 0px, #ff9e00 100%); background-image: -webkit-linear-gradient(45deg, #7ddf39 0px, #ff9e00 100%); }
+	ul.dt-sc-social-network li::after { background: linear-gradient(45deg, #ff9e00 -20%, #7ddf39 100%); background-image: -webkit-linear-gradient(45deg, #ff9e00 -20%, #7ddf39 100%); }	
+	
+	.dt-sc-ico-content.type6 .dt-sc-border:before { background: linear-gradient(to bottom, #ff9e00 0%, #7ddf39 100%); background-image: -webkit-linear-gradient(bottom, #ff9e00 0%, #7ddf39 100%); }
+	.dt-sc-ico-content.type6 .dt-sc-border:after { background: linear-gradient(to right, #ff9e00 0%, #7ddf39 100%); background-image: -webkit-linear-gradient(right, #ff9e00 0%, #7ddf39 100%); }
+	
+	.dt-sc-ico-content.type6:before { background: linear-gradient(to bottom, #7ddf39 0%, #ff9e00 100%) !important; background-image: -webkit-linear-gradient(bottom, #7ddf39 0%, #ff9e00 100%) !important; }
+	.dt-sc-ico-content.type6:after { background: linear-gradient(to right, #7ddf39 0%, #ff9e00 100%) !important; background-image: -webkit-linear-gradient(right, #7ddf39 0%, #ff9e00 100%) !important; }
+	
+	/* *****----- Secondary - #ff9e00 -----***** */
+	
+	/*----*****---- << Color >> ----*****----*/
+	
+	h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .entry-metadata i.fa, .entry-metadata div a:hover, .entry-details .entry-title h4 a:hover, .phone, .phone a, .opening-time > h3, .news-letter .alignleft h2 span, #footer h3.widgettitle, table.dt-sc-rate th, .widget.widget_recent_entries .entry-metadata > h3 a:hover, .widget.widget_recent_entries .entry-metadata .author > a:hover, .widget.widget_recent_entries .entry-metadata .comments > a:hover, .widget_categories ul li a span, .widget ul.tweet_list li.tweet a:hover, .widget ul.tweet_list li.tweet span.tweet-time, ul.dt-sc-tabs-frame li a, ul.dt-sc-tabs-vertical-frame li a, .dt-sc-dropcap.dt-sc-dropcap-bordered-circle, .dt-sc-team .team-details h5 a:hover, .dt-sc-team h5 a:hover, .team-details-social-icons li a, ul.info li strong, #footer .footer-links li:first-child, .blog-post blockquote, ul.commentlist li .commentmetadata, .reply a:hover, #main-menu ul.menu > li > a:hover, #main-menu ul.menu > li.current_page_item > a, #main-menu ul li.dropdown ul li.current_page_item a, #main-menu ul li.dropdown ul li.current_page_item ul li.current_page_item a, .dt-sc-pr-tb-col.selected .dt-sc-price .price, .dt-sc-pr-tb-col.selected .dt-sc-price .dollar, .dt-sc-pr-tb-col.selected .dt-sc-price .terms, .dt-sc-pr-tb-col:hover .dt-sc-price .price, .dt-sc-pr-tb-col:hover .dt-sc-price .dollar, .dt-sc-pr-tb-col:hover .dt-sc-price .terms, .dt-sc-timeline:hover .dt-sc-timeline-content i.fa, .dt-sc-counter:hover h5, .author-name a:hover, ul.dt-sc-social-icons li a.fa:hover, #main-menu ul li.dropdown ul li a:hover, .icon-date-picker { color: #ff9e00; }
+
+	/*----*****---- << BackGround Color >> ----*****----*/
+	
+	input[type="submit"]:hover, span.small-line, h3.border-title:before, th, #header .dt-sc-button.medium:before, .dt-sc-button.effect:before, #main-menu ul.menu li a:after, #main-menu > ul.menu > li.current_page_item a:after, .blog-entry:hover .entry-details .entry-title h4:after, .form-row > input[type="submit"]:hover, ul.dt-sc-social-network > li, .contact-form > input[type="submit"]:hover, .subscribe-frm .dt-sc-button.small:hover, .dt-sc-rate h3:before, .pagination ul li a, .pagination .next-post a, .pagination .prev-post a, .appointment-form input[type="submit"]:hover, .tooltip-container .tooltip .tooltip-content, .tooltip-container .tooltip .tooltip-content:after, .dt-sc-animation-eff1:before, .dt-menu-toggle, .dt-sc-counter .dt-sc-counter-number::after, .aligncenter .tooltip.top .tooltip-content:after, .aligncenter .tooltip.right .tooltip-content:after, .aligncenter .tooltip.bottom .tooltip-content:after, .aligncenter .tooltip.left .tooltip-content:after, .aligncenter .tooltip.top .tooltip-content, .aligncenter .tooltip.right .tooltip-content, .aligncenter .tooltip.bottom .tooltip-content, .aligncenter .tooltip.left .tooltip-content, .dt-sc-ico-content.type3:hover .icon, .dt-sc-ico-content.type4:hover .icon, h5.dt-sc-toggle-accordion:before, h5.dt-sc-toggle:before, .dt-sc-bar, h5.dt-sc-toggle-accordion::before, h5.dt-sc-toggle::before, .dt-sc-button:hover, .widget.searchwidget .icon-search:hover, .dt-sc-ico-content.type1:hover .hexagon1, .dt-sc-ico-content.type1.select .hexagon1, .dt-sc-header-shape .hexagon, ul.shop-times li.closed, .photostack nav span.current.flip, .dt-sticky-menu.type3:before, .dt-sticky-menu.type4:before, ul.shop-times li::after { background-color: #ff9e00; }
+	
+	.content a.bx-next:hover, .content a.bx-prev:hover { background: #ff9e00 !important; }
+
+	/*----*****---- << BorderColor >> ----*****----*/ 
+
+	#main-menu ul li.dropdown ul, #main-menu ul li.dropdown ul li ul, .dt-sc-counter .dt-sc-counter-number:after, .pagination ul li a, .pagination .next-post a, 
+.pagination .prev-post a, .dt-sc-button.transparent.effect:hover, .dt-sc-ico-content.type3:hover .icon, .dt-sc-ico-content.type4:hover .icon, .dt-sc-dropcap.dt-sc-dropcap-bordered-circle, .dt-sc-ico-content.type4 .icon::before, .dt-sc-ico-content.type3 .icon, .dt-sc-ico-content.type4 .icon, .dt-sc-ico-content.type6 .icon { border-color: #ff9e00; }
+	
+	/*----*****---- << Others >> ----*****----*/ 
+
+	#main-menu ul li.dropdown ul li ul, .faq ul.dt-sc-tabs-frame li a.current, .faq ul.dt-sc-tabs-vertical-frame li a.current  { border-color: #ff9e00 !important; }
